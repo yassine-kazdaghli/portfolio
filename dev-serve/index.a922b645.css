@@ -557,9 +557,15 @@ footer .list:hover {
   box-shadow: inset .2rem .2rem .3rem #65f4da2d, inset -.1rem -.2rem .3rem #65f4da2d;
 }
 
+footer {
+  width: 0;
+  margin: 0 auto;
+}
+
 .contact-form {
   color: #fff;
   width: 90vw;
+  margin: 0 auto;
   padding: 10px;
 }
 
@@ -662,6 +668,7 @@ footer .list:hover {
 .contact-form {
   color: #fff;
   width: 90vw;
+  margin: 0 auto;
   padding: 10px;
 }
 

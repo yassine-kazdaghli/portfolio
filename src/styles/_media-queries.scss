@@ -1,0 +1,143 @@
+@import "./variables" ;
+
+
+@media screen and (min-width:427px) and (max-width:768px) {
+   header{
+    padding-top: 5px;
+    height: 20vh;
+   .nav-top{
+        font-size: 1.2rem !important;
+    }
+}
+
+
+
+
+
+#menuToggle input:checked ~ ul
+{
+  transform: translateX(80vw);
+  width: 60vw;
+ 
+}
+#menu{
+    left:0vw !important;
+}
+
+.hero{
+    background-position:0 70% !important ;
+}
+.parallax-wrapper{
+    height: 40vh;
+}
+.my-photo{
+    background-position: 20% 39% !important;
+}
+
+.outer-3D{
+    img{
+        height: 40vh !important;
+        width: 60vw !important;
+    }
+
+}
+
+.side-bar-right {
+    right: -50;
+    margin-right: 10px;
+   }
+
+}
+
+@media screen and (min-width:769px){
+    #menuToggle {
+        opacity: 0;
+    }
+    header{
+        .nav-top{
+            font-size: 1.5rem !important;
+            background-color: $box-shadow-icon-2;
+        }
+    }
+
+    .hero{
+        background-position:0 70% !important ;
+    }
+    .parallax-wrapper{
+        height: 50vh;
+    }
+    .my-photo{
+        background-position: 15% 35% !important;
+    }
+
+    .outer-border-1{
+        margin-bottom: 100px;
+    }
+
+    .work{
+       width: 100vw;
+h2{
+    width: 25vw;
+    margin: 0 auto;
+}
+.work-flex-container{
+
+    width: 60vw !important;
+    margin: 0 auto;
+    img{
+
+    width: 60vw !important ;
+    }
+}
+    }
+
+
+
+.technologies{
+width: 100vw !important;
+height: 50vh;
+
+h2{
+    width: 30vw;
+    margin: 0 auto;
+}
+    .techstack-container{
+    width: 60vw !important;
+    gap: 10vw;
+    margin: 0 auto;
+}
+
+
+}
+.outer-3D{
+    width: 100vw;
+    h2{
+        width: 35vw;
+        margin: 0 auto;
+    }
+    
+    .inner {
+        margin: 0 auto;
+        width: 45vw;
+        img{
+            width: 45vw;
+            height: 30vh;
+        }
+    }
+}
+.contact-form{
+    width: 100vw;
+    h2{
+        width: 35vw;
+        margin: 0 auto;
+    }
+    .contact{
+        width: 45vw;
+        margin: 0 auto;
+    }
+}
+.side-bar-right {
+ right: 5;
+}
+
+}

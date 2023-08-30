@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script
+      src="https://kit.fontawesome.com/332c86cb3d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/main.scss" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav class="nav-top">
+        <ul>
+          <li><a class="nav-li-1" href="#menu">01.Home</a></li>
+          <li><a class="nav-li-2" href="#skills">02.Skills</a></li>
+          <li><a class="nav-li-3" href="#tech">03.Tech-stack</a></li>
+          <li><a class="nav-li-4" href="#contact">04.Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="menuToggle">
+      <!--
+        A fake / hidden checkbox is used as click receiver,
+        so you can use the :checked selector on it.
+        -->
+      <input type="checkbox" title="click for menu" />
+
+      <span></span>
+      <span></span>
+      <span></span>
+
+      <!--
+        Too bad the menu has to be inside of the button
+        but hey, it's pure CSS magic.
+        -->
+      <ul id="menu">
+        <a href="#menu"><li>01.Home</li></a>
+        <a href="#aboutMe"><li>02.About</li></a>
+        <a href="https://codepen.io/yassine-kazdaghli" target="_blank"><li>03.CodePen</li></a>
+        <a href="#"><li>04.Youtube</li></a>
+        <a href="#contact"><li>05.Get in touch</li></a>
+      </ul>
+    </div>
+    <main>
+      <div class="parallax-wrapper" title="scroll me">
+        <div class="hero"></div>
+        <div class="introduction">
+          <h5>Hi , my name is</h5>
+          <h1>Yassine kazdaghli.</h1>
+
+          <div class="type-container-2">
+            <h3 class="typed-out-2">Loving Father&Husband.</h3>
+          </div>
+          <div class="type-container">
+            <h3 class="typed-out">& I'm a Web Developer.</h3>
+          </div>
+        </div>
+        <div class="outer-border-1">
+          <div class="my-photo"></div>
+        </div>
+      </div>
+
+      <div class="about-me" id="aboutMe">
+        <h2><span class="numbered-headers">01.</span>About ME</h2>
+        <p>
+          So yeah , Hello Again. Thanks for visiting
+          <span class="mywebsite">my website</span> & please feel free to
+          explore.Yassine, just an average Joe who recently discovered a passion
+          for building stuff on the internet. how I did so is irrelevant but
+          what I've learnt & what I'm still learning is key.
+        </p>
+
+        <p>
+          I also recently started a tutoring class with
+          <span class="Dci"> <a href="#">Dci</a></span> helping fellow students
+          reach their maximum potential and go through various Front end topics.
+        </p>
+      </div>
+      
+      <div class="work" id="skills">
+        <h2><span class="numbered-headers">03.</span>Work</h2>
+
+        <div class="work-flex-container">
+          <div></div>
+          <div>
+            <a
+              href="https://github.com/FbW-E11/uib-interactions-lighting-yassine-kazdaghli" target="_blank"
+              ><img src="./styles/images/work5.gif" alt=""
+            /></a>
+           
+          </div>
+          <div>
+            <a
+              target="_blank"
+              href="https://github.com/FbW-E11/uib-layout-travel-destination-form-yassine-kazdaghli"
+            >
+              <img src="./styles/images/work1.jpg" alt=""
+            /></a>
+          </div>
+          <div>
+            <a
+              target="_blank"
+              href="https://github.com/FbW-E11/uib-layout-grid-document-layout-yassine-kazdaghli"
+              ><img src="./styles/images/work2.png" alt=""
+            /></a>
+          </div>
+          <div>
+            <a
+              target="_blank"
+              href="https://github.com/FbW-E11/uib-layout-grid-blogger-yassine-kazdaghli"
+              ><img src="./styles/images/work3.png" alt=""
+            /></a>
+          </div>
+          <div>
+            <a
+              target="_blank"
+              href="https://github.com/FbW-E11/uib-layout-grid-design-studio-yassine-kazdaghli"
+              ><img src="./styles/images/work4.png" alt=""
+            /></a>
+          </div>
+        </div>
+      </div>
+      <div class="technologies" id="tech">
+        <h2><span class="numbered-headers">04.</span>Tech-Stack</h2>
+        <div class="techstack-container">
+          <div> 
+          <img src="./styles/icons/icons8-git-144.png" alt="" /><h4>Git</h4></div>
+          
+          <div><img
+            src="./styles/icons/icons8-github-128.png"
+            alt=""
+          /><h4>Github</h4></div>
+
+          <div><img src="./styles/icons/icons8-javascript.gif" alt="" /><h4>Javascript</h4></div>
+          <div><img
+            src="./styles/icons/icons8-html-5-144.png"
+            alt=""
+          /><h4>HTML</h4></div>
+          <div><img src="./styles/icons/icons8-mongodb-96.png" alt="" /><h4>mongoDB</h4></div>
+          <div><img
+            src="./styles/icons/icons8-node-js-144.png"
+            alt=""
+          /><h4>nodeJS</h4></div>
+          <div><img src="./styles/icons/icons8-ubuntu-96 (1).png" alt="" /><h4>Ubuntu</h4></div>
+          <div><img
+            src="./styles/icons/icons8-react-100.png"
+            alt=""
+          /><h4>react</h4></div>
+          <div><img
+            src="./styles/icons/icons8-sass-144.png"
+            class="last-icon"
+            alt=""
+          /><h4>sass</h4></div>
+          <div><img src="./styles/icons/icons8-bootstrap-96.png" alt=""><h4>Bootsrap5</h4></div>
+        </div>
+      </div>
+   
+
+     
+      <div class="side-bar-right" aria-orientation="vertical">
+        <div class="email" aria-orientation="vertical">
+          <a href="mailto:kazdaghli.yassine@gmail.com"
+            >kazdaghli.yassine@gmail.com</a
+          >
+        </div>
+      </div>
+      <section class="contact-form" id="contact">
+        <h2><span class="numbered-headers">06.</span>What next?</h2>
+        <div class="contact">
+          <form action="">
+            <input type="text" placeholder="enter your name" required />
+            <input type="email" placeholder="enter your email" required />
+            <input type="text" placeholder="(+49) ... ... ..." required />
+            <div class="radio-group">
+              
+
+              <div class="input-radio">
+                <label for="option1">Services</label>
+                <input
+                  type="radio"
+                  id="option1"
+                  name="radioGroup"
+                  value="Service"
+                />
+              </div>
+              
+              <div class="input-radio">
+                <label for="option2">Feedback</label>
+                <input
+                  type="radio"
+                  id="option2"
+                  name="radioGroup"
+                  value="Feedback"
+                />
+              </div>
+             
+                <div class="input-radio">
+                <label for="option3">Other...</label>
+                <input
+                  type="radio"
+                  id="option3"
+                  name="radioGroup"
+                  value="Other"
+                />
+              </div>
+             
+             
+            </div>
+            <div class="message">
+            <input type="submit" >
+            <textarea name="" id="" cols="30" rows="8" placeholder="drop me a message !.." style="color: aliceblue;" ></textarea>
+          </div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="list" aria-orientation="vertical">
+        <ul>
+          <li>
+            <a href="#"><i class="fa-brands fa-square-github"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+          </li>
+          <li>
+            <a href="https://codepen.io/yassine-kazdaghli"
+              ><i class="fa-brands fa-codepen"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

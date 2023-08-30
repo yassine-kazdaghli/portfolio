@@ -1,0 +1,248 @@
+@import "./variables" ;
+*{
+    font-family: $main-font;
+}
+
+// this is all the styles for the header part
+header{
+    position: fixed;
+    top: 0;
+    width: 90vw;
+    height: 10vh;
+    
+    
+
+.nav-top{ 
+  
+    position: fixed;
+    width: 100vw;
+    font-size: .7rem;
+    ul{ @include flex-r ;
+        gap: 2vw;
+        li{ 
+            list-style: none;
+            
+            a{ 
+                text-decoration: none;
+                color: antiquewhite;
+           
+            } 
+        
+            .nav-li-1{
+                animation: li-1 6s 2 ;
+                position: relative;
+               
+               }
+            .nav-li-2{
+                animation: li-1 4s 2  ;
+                position: relative;
+                
+            }
+            .nav-li-3{
+                animation: li-2 4s 2 ;
+                position: relative;
+                
+            }
+            .nav-li-4{
+                animation: li-2 6s 2 ;
+                position: relative;
+                
+            }
+        }
+        
+    }
+} @keyframes li-1 {
+    0% {
+      left: -100;
+      opacity: 0;
+      background-color: $bg-a;
+      color: white;
+    }
+    
+    50%{
+        left: 0;
+      opacity: 1;
+      
+    }
+    
+    
+    100% {
+      left: 0;
+      opacity: 1;
+      
+    }
+  }
+  @keyframes li-2 {
+    0% {
+      left: 100;
+      opacity: 0;
+      background-color: $bg-a;
+      color: white;
+    }
+    50%{
+        left: 0;
+      opacity: 1;
+      
+    }
+  
+    100% {
+      left: 0;
+      opacity: 1;
+    }
+  }
+
+}
+
+.nav-li-1:hover , .nav-li-2:hover , .nav-li-4:hover , .nav-li-3:hover {
+    color: $bg-a;
+}
+
+#menuToggle
+{
+  display: block;
+  position: relative;
+  top: 5vh;
+  left: 3vw;
+  width: 30vw;
+  z-index: 110;
+  padding-top: 1vh;
+  
+}
+
+#menuToggle a
+{
+  text-decoration: none;
+  color: $bg-a;
+  transition: color 0.3s ease;
+}
+
+#menuToggle a:hover
+{
+  color: $bg-o;
+}
+
+
+#menuToggle input
+{
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+//   this puts the checkbox on the span
+  cursor: pointer;
+  
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+
+}
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background-color: $bg-a;
+  border-radius: 3px;
+  
+  z-index: 1;
+  
+  transform-origin: 4px 0px;
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+#menuToggle span:nth-of-type(2){
+    width: 23px;
+}
+#menuToggle span:nth-of-type(3){
+    width: 13px;
+}
+
+#menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+  color: black;
+  
+  
+}
+
+#menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+  
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: $bg-o;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ *  the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+  width: 33px;
+  background: $bg-o;
+}
+
+/*
+ * Make this absolute positioned
+ * at the top right of the screen
+ */
+#menu
+{
+  position:relative;
+  width: 70vw;
+  height: 70vh;
+  left: 100;
+  margin: 4vh 0px 0 -90vw;
+  padding: 60px;
+  padding-top: 50px;
+  z-index: 2;
+  background: $font-color-dar-o;
+  list-style-type: none;
+  transform: translateX(-110);
+  transition: transform 1s ease-in;
+}
+
+#menu li
+{
+  padding: 0.9rem 0.3rem;
+  font-size: 1.3rem;
+  font-weight:200;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+  transform: translateX(60vw);
+  width: 70vw;
+  backdrop-filter: blur(5px);
+}

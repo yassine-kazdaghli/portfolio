@@ -1,0 +1,65 @@
+.side-bar-right {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  transform: rotate(90deg);
+  position: fixed;
+  bottom: 130;
+  right: -100;
+  margin-right: 10px;
+  a { text-decoration: underline;
+    color: $bg-a;
+    font-size: 1rem;
+    &:hover{
+        color:$font-color-dar-o ;
+    }
+  }
+}
+
+footer{
+
+height: 10vh;
+width: 90vw;
+display: flex;
+align-items:flex-end ;
+justify-content: center;
+
+    .list{
+        
+        width: 100vw;
+        @include flex-r ;
+        flex-direction: column;
+        z-index: -50;
+    ul{
+        list-style:none;
+        display: flex;
+        gap: 2rem;
+       
+    }
+   
+      a{
+        font-size: 1.5rem;
+        color: $font-color-dar;
+        &:hover{
+            color:$bg-a ;
+        }
+    }
+&::after{
+    content: "designed&developed Yassine.k";
+    display: flex;
+    justify-content: center;
+    
+    // top: 55;
+    // left: -100;
+    width: 300px;
+    height: 2px;
+    margin:1px auto ;
+    background-color: $bg-a ;
+    
+   
+
+} &:hover{
+        color:$bg-a ;
+    }}
+
+}

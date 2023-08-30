@@ -1,0 +1,209 @@
+@import "./variables";
+body {
+  width: 90vw;
+  height: 100vh;
+  background-color: $bg-color-dar-o;
+}
+.outer-border-1 {
+  border: 2px solid $bg-a;
+  position: relative;
+  top: 50;
+  left: 20;
+  width: 62vw;
+  height: 22vh;
+
+  .my-photo {
+    position: absolute;
+    top: 30;
+    left: 30;
+    background-image: url(./images/yassine.jpg);
+    width: 60vw;
+    height: 20vh;
+    background-size: cover;
+    background-position: 20% -50;
+    border-radius: 5px;
+  }
+  &:hover {
+    border-radius: 5px;
+    cursor: pointer;
+    top: 55;
+    left: 25;
+
+    .my-photo {
+      top: 15;
+      left: 15;
+      border-radius: 0;
+      background-color: $bg-o;
+      background-blend-mode: multiply;
+      transform: scale(1.1);
+    }
+  }
+}
+
+.introduction {
+  margin-top: 10vh;
+  width: 100vw;
+
+  h5 {
+    color:$bg-a ;
+  }
+  h1 {
+    color: white;
+    font-weight: 400;
+  }
+  .type-container {
+    display: inline-block;
+    .typed-out {
+      overflow: hidden;
+
+      white-space: nowrap;
+      font-size: 1.4rem;
+      width: 0;
+      animation: typing 6s forwards steps(20) 6s;
+      @keyframes typing {
+        0% {
+          width: 0;
+          border-right: 0.15em solid $bg-o;
+          color: $bg-o;
+        }
+        99% {
+          width: 100%;
+          border-right: 0.15em solid $bg-o;
+          color: $bg-o;
+        }
+        100% {
+          width: 100%;
+          animation-delay: 2s;
+          color: $bg-o;
+        }
+      }
+    }
+  }
+  .type-container-2 {
+    display: inline-block;
+    .typed-out-2 {
+      overflow: hidden;
+
+      white-space: nowrap;
+      font-size: 1.4rem;
+      width: 0;
+      animation: typing-2 8s forwards steps(20) infinite;
+      animation-delay: 12s;
+      @keyframes typing-2 {
+        0% {
+          width: 0;
+          border-right: 0.15em solid $bg-o;
+          color: $bg-o;
+        }
+        50% {
+          color: $bg-o;
+        }
+        99% {
+          width: 100%;
+          border-right: 0.15em solid $bg-o;
+          
+        }
+        100% {
+          width: 100%;
+          opacity: 0.9;
+          color: $bg-a;
+        }
+      }
+    }
+  }
+}
+
+.about-me {
+  padding: 10px;
+color: antiquewhite;
+  h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 400;
+  }
+  p{
+    .mywebsite {
+    color: $bg-a;
+  font-size: larger;
+  }
+  
+  }
+  h2::after {
+    content: "";
+    display: block;
+    position: relative;
+    top: -15;
+    width: 110px;
+    height: 1px;
+    margin-left: 160px;
+    background-color: $bg-color-dar-o;
+  }
+  .numbered-headers {
+    color: $bg-o;
+    font-size: smaller;
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 30px;
+    margin: 0 auto;
+  }
+  a{
+    text-decoration: none;
+    color: $bg-a
+    ;
+  }
+  
+}
+.work {
+  padding: 10px;
+  h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 400;
+    span {
+      color: $bg-a;
+    }
+  }
+  h2::after {
+    content: "";
+    display: block;
+    position: relative;
+    top: -15;
+    width: 110px;
+    height: 1px;
+    margin-left: 120px;
+    background-color: $bg-color-dar-o;
+  }
+}
+.work-flex-container {
+  overflow-y: auto;
+  height: 70vh;
+  width: 100vw;
+  img {
+    border: 2px solid $font-color-dar-o;
+    width: 90vw;
+    height: 40vh;
+  }
+}
+.technologies {
+  margin-bottom: 20vh;
+  height: 50vh;
+  padding: 10px;
+  h2 {
+    font-weight: 400;
+    span {
+      color: $bg-a;
+    }
+  }
+  h2::after {
+    content: "";
+    display: block;
+    position: relative;
+    top: -15;
+    width: 110px;
+    height: 1px;
+    margin-left: 200px;
+    background-color: $bg-color-dar-o;
+  }
+}

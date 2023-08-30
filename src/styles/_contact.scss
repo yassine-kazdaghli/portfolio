@@ -1,0 +1,93 @@
+@import "./variables";
+
+.contact-form {
+  color: white;
+
+  padding: 10px;
+  width: 90vw;
+  h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 400;
+    color: white;
+    span {
+      color: $bg-a;
+    }
+  }
+  h2::after {
+    content: "";
+    display: block;
+    position: relative;
+    top: -15;
+    width: 100px;
+    height: 1px;
+    margin-left: 200px;
+    background-color: white;
+  }
+
+  .contact {
+    display: flex;
+    justify-content: center;
+
+    input::placeholder {
+      color: $bg-o;
+    }
+    input:focus {
+      background-color: $bg-a;
+      outline: none;
+      height: 20px;
+    }
+    input,
+    textarea {
+      border: none;
+      padding: 20px;
+      margin: 5px auto;
+      background-color: transparent;
+      border-bottom: $bg-color-dar-o solid 5px;
+    }
+    input[type="radio"] {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    input[type="radio"]::before {
+      content: "";
+      width: 0.65em;
+      height: 0.65em;
+      border-radius: 50%;
+      transform: scale(0);
+      transition: 120ms transform ease-in-out;
+      box-shadow: inset 1em 1em $bg-a;
+    }
+
+    input[type="radio"]:checked::before {
+      transform: scale(2);
+    }
+    .radio-group {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: 50px 0;
+    }
+    .input-radio {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: 50vw;
+      margin-top: 20px;
+      label {
+        font-size: larger;
+      }
+    }
+    .message {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    textarea:focus {
+      outline-color: $bg-o;
+    }
+  }
+}

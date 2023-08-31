@@ -1,10 +1,9 @@
-6561
+6644
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/package.json1693394099749669006 0
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/readme.md1693394099749669006 0
 146/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.js1693394099749669006 0
 144/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1693394099749669006 0
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/dist/index.d.ts1693394099749669006 0
-121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser1693394099749669006 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/package.json1693394099749669006 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/types/posthtml.d.ts1693394099749669006 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/lib/index.js1693394099745669094 0
@@ -47,7 +46,6 @@
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/chalk1693394098153703830 1
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/color-convert/LICENSE1693394098153703830 0
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/color-convert/CHANGELOG.md1693394098153703830 0
-141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/supports-color/package.json1693394098153703830 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/supports-color/readme.md1693394098153703830 0
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/supports-color/browser.js1693394098153703830 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/supports-color/license1693394098153703830 0
@@ -93,14 +91,12 @@
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/object-assign/license1693394099737669268 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/object-assign/index.js1693394099737669268 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build/optional.js1693394099737669268 0
-105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build/bin.js1693394099737669268 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build/README.md1693394099737669268 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build1693394099737669268 1
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/package.json1693394099753668919 0
 96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/LICENSE1693394099753668919 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/options.d.ts1693394099769668571 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/logger/source_location.d.ts1693394099769668571 0
-112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/logger/index.d.ts1693394099769668571 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/compile.d.ts1693394099769668571 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/index.d.ts1693394099769668571 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/value/boolean.d.ts1693394099769668571 0
@@ -289,7 +285,6 @@
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/README.md1693394099317678427 0
 93/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap1693394099373677205 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/gh-pages/package.json1693394099489674676 0
-102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/gh-pages/readme.md1693394099489674676 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/gh-pages/lib/git.js1693394099489674676 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/gh-pages/lib/util.js1693394099489674676 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/color-convert1693394098153703830 1
@@ -414,7 +409,6 @@
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Declaration.js1693394099465675200 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Operator.js1693394099465675200 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Dimension.js1693394099465675200 0
-115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Url.js1693394099465675200 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/index.js1693394099465675200 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Comment.js1693394099465675200 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/StyleSheet.js1693394099465675200 0
@@ -432,7 +426,6 @@
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/function/var.js1693394099465675200 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@lezer/lr/LICENSE1693394098161703656 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/atrule/page.js1693394099465675200 0
-123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/atrule/font-face.js1693394099465675200 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/chalk/types/index.d.ts1693394098153703830 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/atrule/import.js1693394099465675200 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/atrule/media.js1693394099465675200 0
@@ -460,7 +453,6 @@
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/utils/names.js1693394099465675200 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/utils1693394099465675200 1
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/walker/create.js1693394099465675200 0
-103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/walker1693394099465675200 1
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/lexer/prepare-tokens.js1693394099461675286 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/lexer/Lexer.js1693394099461675286 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/lexer/match-graph.js1693394099461675286 0
@@ -759,7 +751,6 @@
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml-render/dist/index.js1693394099745669094 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml-render/dist1693394099745669094 1
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml-render1693394099745669094 1
-108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/safe-buffer/package.json1693394099753668919 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/safe-buffer/index.d.ts1693394099753668919 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/safe-buffer/index.js1693394099753668919 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/safe-buffer/README.md1693394099753668919 0
@@ -823,46 +814,107 @@
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/index.js1693394098201702782 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domhandler/lib/node.d.ts.map1693394099477674938 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/README.md1693394098201702782 0
-175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-github-128.6b9852f9.png1693399397868917232 0
-178/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-ubuntu-96 (1).74162680.png1693399397868917232 0
-165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/yassine.7e483185.jpg1693399397868917232 0
-155/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.html1693399397868917232 0
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work5.09da496a.gif1693399397872917198 0
-175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-mongodb-96.77699ca5.png1693399397868917232 0
+175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-github-128.6b9852f9.png1693468039223960676 0
+178/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-ubuntu-96 (1).74162680.png1693468039223960676 0
+165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/yassine.7e483185.jpg1693468039227960660 0
+155/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.html1693468039223960676 0
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work5.09da496a.gif1693468039227960660 0
+175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-mongodb-96.77699ca5.png1693468039223960676 0
 165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/heads/main1693399395492937143 0
-178/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/remotes/origin/gh-pages1693399400184897827 0
+178/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/remotes/origin/gh-pages1693467184229917186 0
+174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/remotes/origin/main1693467363584175433 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/p-locate/license1693394099741669181 0
-169/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/remotes/origin1693399400184897827 1
+169/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/remotes/origin1693468040175956681 1
 154/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs1693399395492937143 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/25/0c349efea89779dc5302e8a278fbc40a931a101693467182753931530 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/73/1c4b6caec7fdc0d39573fb637b86a2f4d849ee1693467179937958896 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/731693467180301955359 1
+123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/atrule/font-face.js1693394099465675200 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/0e1693467180121957108 1
+102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/gh-pages/readme.md1693394099489674676 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/6f/47d25e9d85016b27833b6ae52ce570607946151693467182797931102 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4f/4264acce142c894be4db6aab02b63d1a3349291693467179937958896 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b31693399398024915925 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/96/f5a1c330196c2e64e5851ba0667b1268fa32bd1693399397972916361 0
-160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/961693399397972916361 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/92/31a25c486415d1f2ff8d3895e7bdd27c2218071693399397944916596 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/96/f5a1c330196c2e64e5851ba0667b1268fa32bd1693468039243960592 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/961693467182753931530 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/92/31a25c486415d1f2ff8d3895e7bdd27c2218071693468039243960592 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/921693399397944916596 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/d7/8b204c97117975cc5e5d77f4023506d44b99a51693399397908916897 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/99/7b88709d4caa4fec9ff13f084c496f474776571693399397908916897 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/d7/8b204c97117975cc5e5d77f4023506d44b99a51693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/55/ef9ba563f736aa8c90f1c5c22d90baf8a28b461693467362548185487 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/551693467362548185487 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/04/1d1e01f6c5dd909fcabc1b87faee1a043a18621693467182801931064 0
+121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser1693394099749669006 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/041693467182801931064 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f01693467363576175511 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b0/6fd9243e2c39c3d0c2217f1d42cddaac6a41d41693467182801931064 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/99/7b88709d4caa4fec9ff13f084c496f474776571693468039239960609 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/991693399397908916897 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/d3/68956b56bbb15ee6fd628289171db03c72e0711693467180301955359 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f3/61495f8e28d76561e91291c67b23f792268f811693467363576175511 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/511693467362508185876 1
 212/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/pack/pack-7735921a5d3c77b16600a33dc8d02275ea36a473.idx1693399395448937512 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/umd/popper.js.map1693394099285679124 0
-213/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/pack/pack-7735921a5d3c77b16600a33dc8d02275ea36a473.pack1693399397908916897 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5a/311141239e0769e4d0e01b3a1b8c6a14e5db7a1693399397908916897 0
+213/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/pack/pack-7735921a5d3c77b16600a33dc8d02275ea36a473.pack1693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/7c/c61331de166f51ab592d17dcdf6b7771020b9c1693467180081957497 0
+103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/walker1693394099465675200 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/be1693467182793931141 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5a/311141239e0769e4d0e01b3a1b8c6a14e5db7a1693468039239960609 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/281693399398024915925 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/77/2f06e939ab7b0fabbbf8282e0a211688f110881693399397908916897 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/40/4e14620e5c1dda73e23f32498ca4a68d36168b1693467362512185837 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b8/8d63b30c17ef06f77dbc88e7e900129c187b821693467363576175511 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/77/2f06e939ab7b0fabbbf8282e0a211688f110881693468039239960609 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/771693399397908916897 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/89/44a273ffefc7fe473a59101b58e50dda0982521693399397904916931 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5e/a7ffeaf78ddc975c881b2587cf8d3a179165ce1693399397908916897 0
-160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5e1693399397908916897 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/89/44a273ffefc7fe473a59101b58e50dda0982521693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5e/a7ffeaf78ddc975c881b2587cf8d3a179165ce1693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5e/89a9228f64b904166fc99bf3c87dac366791c61693467180117957147 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/5e1693467180117957147 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/6e/1bbbf2af51af6128bf6978683b8bb71a63ddc61693467362516185798 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/6e/4a67f66ecb11d754ad3adbf2eeba6ea237ba591693467179937958896 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/6e1693467362516185798 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/fc/14666966ebada738522b8ea1b363716742f4f31693467362512185837 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/fc1693467362512185837 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/2a/9b3ae85a4c9a162c05959e10ccdfe43ba3b0cb1693467182753931530 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/2a1693467182753931530 1
 162/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/info1693399389812984751 1
-160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee1693399397908916897 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f9/7b4ca72fd4beb8ad45b6e3b1d8ff994563fec91693399397908916897 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/13/891c5c09d43c91439eedc843a05e789dde2cac1693399398008916059 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee/902a08de48948ccc858a8122e0577dd9d6bc831693467182793931141 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee/4b335857f7fef39a541f7defbf69cb80b546be1693467362508185876 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee1693467362508185876 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/09/137336de6f26cb75c8b2f3fd55af6b4eb311eb1693467180073957574 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/091693467180073957574 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/56/ec2d4330d28e7500b2e58e933bd5ff3d14e7481693467180101957302 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f8/e7021f66a26222fe28171887e33662851d05911693467363576175511 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f9/7b4ca72fd4beb8ad45b6e3b1d8ff994563fec91693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/13/891c5c09d43c91439eedc843a05e789dde2cac1693468039247960576 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/131693399398008916059 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e8/975ae248555d82165866dc449a23a25ec637841693399397908916897 0
+105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build/bin.js1693394099737669268 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e51693467182797931102 1
+141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/supports-color/package.json1693394098153703830 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/0c/307411e045ea101632c061aeed4dcd2a370aba1693467180077957536 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/0c1693467180077957536 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ba/b04440f8cb8616d116afe8405524facada2c9f1693467182797931102 0
+108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/safe-buffer/package.json1693394099753668919 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ba1693467182797931102 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/31/09643c922735536f2534a1edc44624b00b54671693467363576175511 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/871693467363568175588 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e8/975ae248555d82165866dc449a23a25ec637841693468039239960609 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e81693399397908916897 1
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e7/a08b74d5c6d79315d6fe53a6f17d81a75d5bd41693399397928916730 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4a/3647902c5a895e768ddd4bb7df049538bad0b11693399397908916897 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4c/300d6ccb76bbf81d8f73ffaabc0a2cd4724b161693467179937958896 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4c1693467179937958896 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/701693467362532185643 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/8b1693467179937958896 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/19/c4b7c64bea0dadb42ca6b6b4f0e4f1645412df1693467180101957302 0
+112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/types/logger/index.d.ts1693394099769668571 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/dc/edecb61a0b71505f790104379f5e052b2212a91693468039239960609 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/dc1693467182925929858 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e7/a08b74d5c6d79315d6fe53a6f17d81a75d5bd41693468039239960609 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4a/3647902c5a895e768ddd4bb7df049538bad0b11693467182761931452 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4a1693399397908916897 1
-157/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects1693399398028915892 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/05/5006d9f2cd911d9232ccabc775126cf5910de61693467181777941015 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/051693467181777941015 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/c9/bf231e25b7b5e1146357b103e45d261121088b1693467182749931569 0
+115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/Url.js1693394099465675200 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/c91693467182749931569 1
+157/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects1693468039147960995 1
 177/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/hooks/applypatch-msg.sample1693399389812984751 0
 179/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/hooks/push-to-checkout.sample1693399389812984751 0
 173/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/hooks/pre-commit.sample1693399389812984751 0
@@ -879,20 +931,21 @@
 177/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/hooks/pre-applypatch.sample1693399389812984751 0
 155/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/hooks1693399389812984751 1
 165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/heads1693399398024915925 1
-183/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes/origin/gh-pages1693399400184897827 0
+183/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes/origin/gh-pages1693467184229917186 0
 167/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes1693399395492937143 1
 159/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs1693399395492937143 1
-155/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/index1693399398024915925 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f81693467182989929236 1
+155/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/index1693468256734869675 0
 162/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/info/exclude1693399389812984751 0
-156/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/config1693399398016915992 0
+156/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/config1693468039259960525 0
 161/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/packed-refs1693399395492937143 0
 158/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/branches1693399389812984751 1
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/dom-utils/getParentNode.d.ts1693394099285679124 0
-149/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git1693399567819498724 1
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work3.3eda70a4.png1693399397872917198 0
-174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-react-100.d9efe046.png1693399397868917232 0
-172/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-git-144.990c11a0.png1693399397868917232 0
-144/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio1693399397864917266 1
+149/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git1693468256734869675 1
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work3.3eda70a4.png1693468039231960642 0
+174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-react-100.d9efe046.png1693468039223960676 0
+172/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-git-144.990c11a0.png1693468039223960676 0
+144/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio1693468039219960693 1
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages1693399389812984751 1
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/electron-to-chromium/package.json1693394099481674850 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/electron-to-chromium/LICENSE1693394099481674850 0
@@ -941,6 +994,7 @@
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/src/validateModuleSpecifier.js1693394098361699289 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/SD.js1693394099441675723 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lz4/lib/lz4frame_static.h1693394099645671275 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/311693467363576175511 1
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/src/promiseFromProcess.js1693394098361699289 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/src/index.js1693394098357699376 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/src/MockPackageInstaller.js1693394098357699376 0
@@ -964,7 +1018,7 @@
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager1693394098361699289 1
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/font-family-system-ui.js1693394099405676508 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc1693394099269679473 0
-104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-git-144.990c11a0.png1693399375529104537 0
+104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-git-144.990c11a0.png1693468033323985259 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/src/linux1693394099269679473 1
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/src/macos/FSEventsBackend.cc1693394099269679473 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-boxdecorationbreak.js1693394099389676856 0
@@ -983,7 +1037,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/IL.js1693394099433675897 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/index.js.flow1693394099253679822 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-image/LICENSE1693394098417698067 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b3/e265a8415e775da00b9e14a91f3ef081d1277a1693399398024915925 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b3/e265a8415e775da00b9e14a91f3ef081d1277a1693467182753931530 0
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.glibc.node1693394099261679648 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/unzipWith.js1693394099717669704 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/prebuilds/darwin-arm641693394099253679822 1
@@ -1101,6 +1155,7 @@
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_createRecurry.js1693394099665670838 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/lib1693394099269679473 1
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-posthtml/src/loadPlugins.js1693394099233680258 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/73/95b84990fe89c599f5524515f6f0b13e84b8441693467180301955359 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-optional-pseudo.js1693394099393676769 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-what/lib/es/stringify.d.ts.map1693394099469675112 0
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-posthtml/lib/PostHTMLTransformer.js1693394099233680258 0
@@ -1183,12 +1238,13 @@
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lines-and-columns/build/index.js1693394099633671536 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/timsort/package.json1693394099801667873 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/insert-adjacent.js1693394099409676421 0
-107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-mongodb-96.77699ca5.png1693399375529104537 0
+107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-mongodb-96.77699ca5.png1693468033323985259 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/TargetRequest.test.js1693394098233702084 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-js/src/utils.js1693394098365699202 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/Parcel.test.js1693394098233702084 0
 143/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/application-targets/package.json1693394098233702084 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/module-b.js1693394098233702084 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/d31693467180301955359 1
 147/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/package.json1693394098413698154 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dist/index.cjs.map1693394099649671187 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/duplicate-targets1693394098233702084 1
@@ -1236,7 +1292,7 @@
 162/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1693394098233702084 1
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/MO.js1693394099437675810 0
 170/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines/index.js1693394098233702084 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work2.a21af37e.png1693399377205090477 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work2.a21af37e.png1693468033323985259 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/resolver-default1693394098381698853 1
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js1693394099285679124 0
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build-optional-packages/build-test.js1693394099737669268 0
@@ -1286,7 +1342,7 @@
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/requests/WriteBundlesRequest.js1693394098225702258 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/requests/PackageRequest.js1693394098225702258 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/constants.js1693394098225702258 0
-106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/Portfolio.09ed2cc3.js.map1693466865445020543 0
+106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/Portfolio.09ed2cc3.js.map1693468754843493362 0
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/index.d.ts1693394099813667611 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/path-exists/license1693394099741669181 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/requests/DevDepRequest.js1693394098225702258 0
@@ -1320,6 +1376,7 @@
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-react-refresh-wrap/src1693394099233680258 1
 157/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-react-refresh-wrap/lib/ReactRefreshWrapTransformer.js1693394099233680258 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/reporter-cli/lib1693394098365699202 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b81693467363576175511 1
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/msgpackr/dist/node.cjs.map1693394099729669443 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/test1693394099273679386 1
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/xorBy.js1693394099701670053 0
@@ -1359,6 +1416,7 @@
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-js/src/index.js1693394098365699202 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture1693394098285700948 1
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/src/TapStream.js1693394099253679822 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/70/5780986f21ac75433452eb6a2a4c9a41d672361693467362532185643 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/src/path.js1693394099253679822 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/src/objectHash.js1693394099253679822 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/esm/utils/getAltLen.js1693394099277679298 0
@@ -1417,7 +1475,7 @@
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lines-and-columns1693394099633671536 1
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/once/README.md1693394099737669268 0
 94/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/fs1693394098261701473 1
-174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/heads/gh-pages1693399398024915925 0
+174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/heads/gh-pages1693467182989929236 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/nthArg.js1693394099709669879 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/lib1693394099241680084 1
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/icons/icons8-ubuntu-96 (1).png1693394099813667611 0
@@ -1503,7 +1561,7 @@
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/js/src/util/template-factory.js1693394099373677205 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/scss/forms/_form-text.scss1693394099377677118 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domutils/lib/querying.d.ts.map1693394099477674938 0
-108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-node-js-144.183befbd.png1693399377205090477 0
+108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-node-js-144.183befbd.png1693468033323985259 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/codeframe/test1693394098221702345 1
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/extendWith.js1693394099685670402 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/codeframe/lib/codeframe.js1693394098213702520 0
@@ -1540,7 +1598,7 @@
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events/src1693394098237701996 1
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/optimizer-svgo/src1693394098353699464 1
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-js/parcel-swc.linux-arm64-musl.node1693394098901687500 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.4736fcdd.css1693399377205090477 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.4736fcdd.css1693468033331985225 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/optimizer-svgo/lib/SVGOOptimizer.js1693394098353699464 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build-optional-packages/LICENSE1693394099737669268 0
 141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/optimizer-image/parcel-image.linux-arm64-gnu.node1693394098321700162 0
@@ -1617,6 +1675,7 @@
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e71693399397928916730 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/array-union/readme.md1693394099309678601 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/pullAll.js1693394099693670227 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/3f1693467182801931064 1
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/invalid-source-not-file1693394098233702084 1
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/keyboardevent-key.js1693394099409676421 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/set-array/src/set-array.ts1693394098157703743 0
@@ -1670,6 +1729,7 @@
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/forEachOf.js1693394099313678514 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/compressor-raw/package.json1693394098221702345 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/esm/utils/mergePaddingObject.js1693394099277679298 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/87/4efa15c222b7946535d34ab685ee4453ca60201693467363568175588 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseSetData.js1693394099661670925 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer/lib/esm/foreignNames.js1693394099473675025 0
 149/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main1693394098285700948 1
@@ -1722,7 +1782,7 @@
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/gen-mapping/dist/gen-mapping.umd.js.map1693394098153703830 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/code-frame/package.json1693394098149703918 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-addon-api/tools1693394099737669268 1
-173/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-sass-144.264d86c2.png1693399397868917232 0
+173/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-sass-144.264d86c2.png1693468039223960676 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/serviceworkers.js1693394099417676246 0
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-js/lib/helpers/browser/html-loader.js1693394098381698853 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/dist/unpacker/index.js1693394099449675548 0
@@ -1750,6 +1810,7 @@
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/stable/stable.js1693394099777668396 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/FM.js1693394099429675984 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/IR.js1693394099433675897 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/7c1693467180081957497 1
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/now.js1693394099693670227 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/BS.js1693394099425676071 0
 175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo1693394098285700948 1
@@ -1866,7 +1927,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/EG.js1693394099429675984 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_class_name_tdz_error.js1693394099293678950 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/alt-na.js1693394099445675635 0
-154/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/HEAD1693399397632919210 0
+154/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/HEAD1693468039183960844 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@lmdb/lmdb-linux-x64/node.abi83.musl.node1693394098189703044 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_hashDelete.js1693394099665670838 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/UA.js1693394099445675635 0
@@ -1917,7 +1978,7 @@
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-js/src/DevPackager.js1693394098361699289 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/brotli.js1693394099389676856 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/GP.js1693394099433675897 0
-96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/_sidebars.scss1693394099813667611 0
+96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/_sidebars.scss1693468519473197773 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/SV.js1693394099441675723 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/FR.js1693394099429675984 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/summarizeRequest.js1693394098225702258 0
@@ -1927,7 +1988,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/BT.js1693394099425676071 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/clone/.npmignore1693394099449675548 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/PM.js1693394099441675723 0
-109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-sass-144.1c2f9482.png1693466865413020855 0
+109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-sass-144.1c2f9482.png1693468733519653590 0
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/intersectionobserver-v2.js1693394099409676421 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/fs-extra/lib/util/utimes.js1693394099489674676 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/lang.js1693394099705669966 0
@@ -2006,6 +2067,7 @@
 143/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.11693394099637671449 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/tslib/tslib.es6.js1693394099801667873 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/cloneWith.js1693394099673670664 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/951693467182989929236 1
 96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-json/test1693394099505674327 1
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-react-refresh/LICENSE1693394098385698765 0
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-html/lib/HTMLTransformer.js1693394098417698067 0
@@ -2085,14 +2147,14 @@
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_non_iterable_spread.mjs1693394099301678775 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/source-map/parcel_sourcemap_node/Cargo.toml1693394098385698765 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer/lib/foreignNames.d.ts.map1693394099473675025 0
-103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.a922b645.css.map1693466865297021986 0
+103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.a922b645.css.map1693468733555653320 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/parent-module1693394099741669181 1
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/Doxyfile1693394099637671449 0
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-musl.node1693394099117682788 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_iterable_to_array.js1693394099297678863 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-babel/package.json1693394098417698067 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/utility-types/LICENSE1693394099805667785 0
-175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-html-5-144.b39dedfc.png1693399397868917232 0
+175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-html-5-144.b39dedfc.png1693468039223960676 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/index.mjs1693394099301678775 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-arrayish/.travis.yml1693394099505674327 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/filename-reserved-regex/package.json1693394099485674763 0
@@ -2205,7 +2267,7 @@
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/battery-status.js1693394099385676944 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/p-limit/package.json1693394099741669181 0
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/childnode-remove.js1693394099389676856 0
-91/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.html1693466865433020660 0
+91/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.html1693468755571487875 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/tslib/package.json1693394099801667873 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/tap.js1693394099697670140 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/graph/package.json1693394098261701473 0
@@ -2224,7 +2286,7 @@
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/optimizer-terser1693394098353699464 1
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/PublicMutableBundleGraph.test.js1693394098233702084 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_class_private_field_loose_base.js1693394099293678950 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee/28c55147c849c2180c84ef9bb039a758b845af1693399397908916897 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/ee/28c55147c849c2180c84ef9bb039a758b845af1693468039239960609 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/compressor-raw/LICENSE1693394098221702345 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/add.js1693394099673670664 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/prefers-reduced-motion.js1693394099417676246 0
@@ -2286,7 +2348,7 @@
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/eme.js1693394099401676595 0
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_unsupported_iterable_to_array.js1693394099297678863 0
 88/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/package-lock.json1693394099813667611 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work2.59f06116.png1693466865445020543 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work2.59f06116.png1693468733523653560 0
 145/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias1693394098289700861 1
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/NE.js1693394099437675810 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/scss/_close.scss1693394099373677205 0
@@ -2312,7 +2374,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/BO.js1693394099425676071 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_check_private_redeclaration.js1693394099293678950 0
 144/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-plaintext.js1693394099409676421 0
-107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-html-5-144.b39dedfc.png1693399377205090477 0
+107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-html-5-144.b39dedfc.png1693468033323985259 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/dist/js/bootstrap.esm.js.map1693394099357677554 0
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_private_method_set.mjs1693394099301678775 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_defaults.js1693394099297678863 0
@@ -2341,7 +2403,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/LS.js1693394099433675897 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-css1693394098361699289 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/glob-parent/README.md1693394099489674676 0
-80/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve1693466865457020426 1
+80/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve1693468755575487844 1
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/utils/uniqueBy.d.ts1693394099293678950 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/cond.js1693394099673670664 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/RequestTracker.js1693394098221702345 0
@@ -2376,7 +2438,7 @@
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_to_property_key.js1693394099297678863 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_ts_metadata.js1693394099297678863 0
 95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-arrayish1693394099505674327 1
-112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-node-js-144.8ac45499.png1693466865397021011 0
+112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-node-js-144.8ac45499.png1693468733427654279 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/gen-mapping/src/types.ts1693394098153703830 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/package.json1693394099293678950 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer/README.md1693394099473675025 0
@@ -2400,7 +2462,7 @@
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/once.js1693394099693670227 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/x-frame-options.js1693394099425676071 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/scss/forms/_form-check.scss1693394099377677118 0
-70/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio1693466865253022415 1
+70/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio1693468401833983689 1
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/colr-v1.js1693394099389676856 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.11693394099641671362 0
 92/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/fs-extra1693394099489674676 1
@@ -2448,7 +2510,7 @@
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/source-map/dist/source-map.min.js1693394099777668396 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_setCacheHas.js1693394099669670751 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dotenv-expand1693394099477674938 1
-102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/Portfolio.09ed2cc3.js1693466865429020698 0
+102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/Portfolio.09ed2cc3.js1693468754839493392 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/LB.js1693394099433675897 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/internal/applyEach.js1693394099313678514 0
 145/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed1693394098361699289 1
@@ -2460,7 +2522,7 @@
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/takeRightWhile.js1693394099713669792 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/optimizer-css/lib1693394098289700861 1
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-container-query-units.js1693394099389676856 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.a922b645.css1693466865281022143 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/index.a922b645.css1693468733503653710 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_apply_descriptor_update.mjs1693394099297678863 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/sourcemap-codec1693394098157703743 1
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_non_iterable_spread.js1693394099297678863 0
@@ -2476,11 +2538,11 @@
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js1693394099749669006 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-first-line.js1693394099393676769 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_set_prototype_of.js1693394099297678863 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.4736fcdd.css.map1693399377209090444 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.4736fcdd.css.map1693468033395984961 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/flowRight.js1693394099685670402 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/SE.js1693394099441675723 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer/node_modules/entities/lib/maps/xml.json1693394099477674938 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work5.5e3b3bcd.gif1693466865289022065 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work5.5e3b3bcd.gif1693468733439654189 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/terser/lib/compress/inline.js1693394099797667960 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1693394098417698067 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/InternalAsset.test.js1693394098233702084 0
@@ -2500,6 +2562,7 @@
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/umd/popper-base.js.map1693394099281679211 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/LICENSE1693394099253679822 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer1693394099477674938 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/8b/7ee4f638813c5081475e72ad72296433136dbe1693467179937958896 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-json/.npmignore1693394099505674327 0
 142/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules1693394098361699289 1
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/menu.js1693394099413676333 0
@@ -2551,7 +2614,7 @@
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/feature-policy.js1693394099401676595 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/src1693394099253679822 1
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/browser/map.js1693394099809667698 0
-110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-ubuntu-96 (1).74162680.png1693399375529104537 0
+110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-ubuntu-96 (1).74162680.png1693468033323985259 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/source-map/lib/source-map-generator.js1693394099777668396 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/types/lib/unsafe.d.ts1693394099237680171 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-postcss/lib/constants.js1693394099233680258 0
@@ -2595,7 +2658,7 @@
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/fs/src/NodeFS.js1693394098261701473 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features1693394099425676071 1
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/graceful-fs/package.json1693394099489674676 0
-107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-javascript.4760338d.gif1693399375437105309 0
+107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-javascript.4760338d.gif1693468033323985259 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/hash/parcel-hash.win32-x64-msvc.node1693394098281701036 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/webgpu.js1693394099421676159 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/escalade/dist/index.mjs1693394099485674763 0
@@ -2614,6 +2677,7 @@
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/commondir/example1693394099453675461 1
 137/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1693394099233680258 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/src/requests/ParcelConfigRequest.js1693394098229702171 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/95/6590e73e3dc8c31fc65eedaf961d52b2a498d31693467182989929236 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1693394099413676333 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-json/index.js1693394099505674327 0
 148/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.d.ts1693394099749669006 0
@@ -2622,7 +2686,7 @@
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/script-defer.js1693394099417676246 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test1693394098361699289 1
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/MC.js1693394099437675810 0
-114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-ubuntu-96 (1).0b730187.png1693466865413020855 0
+114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-ubuntu-96 (1).0b730187.png1693468733519653590 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/packages/peers1693394098361699289 1
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_call_check.mjs1693394099297678863 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_getSymbolsIn.js1693394099665670838 0
@@ -2644,7 +2708,7 @@
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/partialRight.js1693394099693670227 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/dom-serializer/lib/foreignNames.js1693394099473675025 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/contenteditable.js1693394099389676856 0
-111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-html-5-144.0d24ddb0.png1693466865397021011 0
+111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-html-5-144.0d24ddb0.png1693468733427654279 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/create.js1693394099465675200 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/source-map/lib/source-map-consumer.js1693394099777668396 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/lib/types.d.ts1693394098357699376 0
@@ -2656,7 +2720,7 @@
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_define_property.mjs1693394099301678775 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/CF.js1693394099429675984 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/fs/LICENSE1693394098257701560 0
-108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-git-144.402c7985.png1693466865413020855 0
+108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-git-144.402c7985.png1693468733519653590 0
 143/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/background-repeat-round-space.js1693394099385676944 0
 149/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_check_private_static_field_descriptor.mjs1693394099301678775 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/replace/Atrule.js1693394099473675025 0
@@ -2670,6 +2734,7 @@
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/unzip.js1693394099717669704 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/atob-btoa.js1693394099385676944 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/mdn-data/css/units.json1693394099721669617 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/63/e9f50493eacae12d548b385ef1010f72725f5f1693467179937958896 0
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-js/src/esmodule-helpers.js1693394099233680258 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/_variables.scss1693394099813667611 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/pdf-viewer.js1693394099413676333 0
@@ -2697,11 +2762,11 @@
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-deviceadaptation.js1693394099393676769 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_wrap_native_super.js1693394099297678863 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/plugin/lib/PluginAPI.js1693394098365699202 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work5.09da496a.gif1693399377161090846 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work5.09da496a.gif1693468033351985143 0
 147/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.0/index.js1693394098361699289 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-media-scripting.js1693394099393676769 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/urlsearchparams.js1693394099421676159 0
-97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/yassine.7e483185.jpg1693399375533104503 0
+97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/yassine.7e483185.jpg1693468033331985225 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/picomatch/lib/utils.js1693394099745669094 0
 128/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-snappoints.js1693394099397676682 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/utils/getOppositePlacement.js1693394099293678950 0
@@ -2744,7 +2809,7 @@
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/scalar.js1693394099813667611 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-boxshadow.js1693394099389676856 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_async_iterator.js1693394099293678950 0
-104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/background-top.6ca98e3d.jpg1693399377205090477 0
+104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/background-top.6ca98e3d.jpg1693468033327985242 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseRange.js1693394099661670925 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest3.c1693394099641671362 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_inherits.mjs1693394099301678775 0
@@ -2769,7 +2834,7 @@
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_createToPairs.js1693394099665670838 0
 81/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/.gitigonre1693394098033706450 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/postcss-value-parser/lib/stringify.js1693394099745669094 0
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work1.f8a26b49.jpg1693399397872917198 0
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work1.f8a26b49.jpg1693468039231960642 0
 92/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/_Main.scss1693394099813667611 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lightningcss/node1693394099633671536 1
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/commander/package.json1693394099453675461 0
@@ -2784,12 +2849,12 @@
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/input-number.js1693394099409676421 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/codeframe1693394098221702345 1
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/svg-img.js1693394099417676246 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work4.3f46cc62.png1693399377205090477 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work4.3f46cc62.png1693468033323985259 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_arrayLikeKeys.js1693394099653671100 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/BY.js1693394099425676071 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/border-image.js1693394099389676856 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_isIterateeCall.js1693394099669670751 0
-105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-sass-144.264d86c2.png1693399375533104503 0
+105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-sass-144.264d86c2.png1693468033323985259 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/graph/lib/shared-buffer.js1693394098261701473 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/reporter-cli/src1693394098369699114 1
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/DZ.js1693394099429675984 0
@@ -2799,6 +2864,7 @@
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/colr.js1693394099389676856 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/d71693399397908916897 1
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/transform.js1693394099697670140 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/0e/bbb1cf2e263f115f87e62ffee0ae69a1441d161693467180121957108 0
 139/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1693394099497674502 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_iterable_to_array_limit.mjs1693394099301678775 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@mischnic/json-sourcemap/package.json1693394098201702782 0
@@ -2845,7 +2911,7 @@
 94/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/_footer.scss1693394822010439494 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/parse-json/readme.md1693394099741669181 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/gen-mapping/src/sourcemap-segment.ts1693394098153703830 0
-169/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/heads/gh-pages1693399398024915925 0
+169/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/heads/gh-pages1693467182989929236 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/agents.js1693394099385676944 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/webcodecs.js1693394099421676159 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/utils/debounce.js1693394099289679037 0
@@ -2895,7 +2961,7 @@
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/test/integration/workerfarm/ipc-pid.js1693394099273679386 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-image1693394098417698067 1
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/mdn-data/css/at-rules.schema.json1693394099721669617 0
-111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-mongodb-96.d4e04e5f.png1693466865413020855 0
+111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-mongodb-96.d4e04e5f.png1693468733519653590 0
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.umd.js1693394098157703743 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-css/lib1693394098361699289 1
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_wrap_async_generator.mjs1693394099301678775 0
@@ -3048,7 +3114,7 @@
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/escalade/sync/index.mjs1693394099485674763 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/src/Profiler.js1693394099269679473 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/svgo/plugins/cleanupNumericValues.js1693394099785668222 0
-107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-github-128.6b9852f9.png1693399377205090477 0
+107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-github-128.6b9852f9.png1693468033323985259 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/mdn-data/css/syntaxes.schema.json1693394099721669617 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/codeframe/lib/codeframe.js.map1693394098221702345 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/update-browserslist-db/utils.js1693394099805667785 0
@@ -3059,7 +3125,7 @@
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map1693394098153703830 0
 142/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-service-worker/src/ServiceWorkerRuntime.js1693394098385698765 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/getelementsbyclassname.js1693394099405676508 0
-172/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/background-top.6ca98e3d.jpg1693399397872917198 0
+172/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/background-top.6ca98e3d.jpg1693468039231960642 0
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/email-addresses1693394099481674850 1
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/make-dir/index.d.ts1693394099717669704 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/subtract.js1693394099697670140 0
@@ -3090,7 +3156,7 @@
 94/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-select1693394099457675374 1
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-what/lib/es/parse.js1693394099469675112 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/supports-color1693394099781668309 1
-110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-react-100.fe489164.png1693466865397021011 0
+110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-react-100.fe489164.png1693468733427654279 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_set_prototype_of.mjs1693394099301678775 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-placeholder-shown.js1693394099397676682 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/replace/property1693394099473675025 1
@@ -3150,6 +3216,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/ZM.js1693394099445675635 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/update-browserslist-db/index.d.ts1693394099805667785 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/bootstrap/scss/mixins/_banner.scss1693394099377677118 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f31693467363576175511 1
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/hash/LICENSE1693394098261701473 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/styles/icons/icons8-mongodb-96.png1693394099813667611 0
 161/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines1693394098233702084 1
@@ -3259,7 +3326,7 @@
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/p-limit/index.d.ts1693394099741669181 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-react-refresh/package.json1693394098385698765 0
 151/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/targets-default-distdir-one/package.json1693394098233702084 0
-108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/background-top.90fc61a1.jpg1693466865449020503 0
+108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/background-top.90fc61a1.jpg1693468733551653350 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseAssign.js1693394099653671100 0
 158/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed/package.json1693394098361699289 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/msgpackr/dist/unpack-no-eval.cjs1693394099733669356 0
@@ -3276,7 +3343,7 @@
 141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/Makefile1693394099633671536 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/SI.js1693394099441675723 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/sumBy.js1693394099697670140 0
-87/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.html1693399377205090477 0
+87/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/index.html1693468033331985225 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/binary-extensions/package.json1693394099317678427 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/utils/expandToHashMap.d.ts1693394099289679037 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/src/threads/ThreadsChild.js1693394099273679386 0
@@ -3341,7 +3408,7 @@
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_castFunction.js1693394099661670925 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/canvas.js1693394099389676856 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/ime.js1693394099405676508 0
-106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-react-100.d9efe046.png1693399377205090477 0
+106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-react-100.d9efe046.png1693468033323985259 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/svgo/plugins/removeRasterImages.js1693394099789668134 0
 141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/fixtures/config-node-pipeline/.parcelrc1693394098233702084 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/MH.js1693394099437675810 0
@@ -3371,13 +3438,13 @@
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/namevalue-storage.js1693394099413676333 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/src/txn.cpp1693394099653671100 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/online-status.js1693394099413676333 0
-111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-javascript.4b0a0b51.gif1693466865297021986 0
+111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-javascript.4b0a0b51.gif1693468733523653560 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/sql-storage.js1693394099417676246 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/packager-raw/lib/RawPackager.js1693394098365699202 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-babel/README.md1693394098417698067 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_object_destructuring_empty.mjs1693394099301678775 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/pickBy.js1693394099693670227 0
-76/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build1693399377209090444 1
+76/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build1693468033399984944 1
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/watcher/src/macos1693394099269679473 1
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js1693394098381698853 0
 95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/buffer-from1693394099385676944 1
@@ -3433,7 +3500,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/DJ.js1693394099429675984 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/input-email-tel-url.js1693394099405676508 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/lib/CommittedAsset.js1693394098221702345 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work1.f8a26b49.jpg1693399375529104537 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work1.f8a26b49.jpg1693468033323985259 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/testfeat.js1693394099417676246 0
 141/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-js/src/helpers/browser/import-polyfill.js1693394098381698853 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/generated1693394099481674850 1
@@ -3480,6 +3547,7 @@
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/text-stroke.js1693394099417676246 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/ac3-ec3.js1693394099385676944 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/packages/a1693394098361699289 1
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/be/313b5ab737d2cb690d303c6894787f054b0b1d1693467182793931141 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/assignAll.js1693394099681670489 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_mergeData.js1693394099669670751 0
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/js-regexp-lookbehind.js1693394099409676421 0
@@ -3541,7 +3609,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/PW.js1693394099441675723 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/sxg.js1693394099417676246 0
 162/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/index.js1693394098285700948 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/32/6dde056f58507ded97f14fef973eee56bc3ee91693399397908916897 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/32/6dde056f58507ded97f14fef973eee56bc3ee91693468039239960609 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/find.js1693394099685670402 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-container-queries.js1693394099389676856 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-babel/src/flow.js1693394098417698067 0
@@ -3599,6 +3667,7 @@
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/trace-mapping/dist/types/strip-filename.d.ts1693394098161703656 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/source-map-js/lib/source-map-generator.js1693394099773668483 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/matchmedia.js1693394099409676421 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b01693467182801931064 1
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/reporter-cli/src/CLIReporter.js1693394098369699114 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/tslib/tslib.js1693394099801667873 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/filesystem.js1693394099401676595 0
@@ -3628,6 +3697,7 @@
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/test/PublicEnvironment.test.js1693394098233702084 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_listCacheGet.js1693394099669670751 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@babel/highlight/node_modules/color-convert/route.js1693394098153703830 0
+179/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes/origin/main1693467363584175433 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/es6-number.js1693394099401676595 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/object-fit.js1693394099413676333 0
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/NU.js1693394099437675810 0
@@ -3643,7 +3713,7 @@
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-mediaqueries.js1693394099393676769 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/calc.js1693394099389676856 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/enums.d.ts1693394099289679037 0
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.4736fcdd.css1693399397868917232 0
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.4736fcdd.css1693468039223960676 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/link-rel-prerender.js1693394099409676421 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/each.js1693394099313678514 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/json.js1693394099409676421 0
@@ -3737,7 +3807,7 @@
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/bigint.js1693394099385676944 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-regions.js1693394099397676682 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/namer-default/package.json1693394098285700948 0
-95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work3.3eda70a4.png1693399375529104537 0
+95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/work3.3eda70a4.png1693468033323985259 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/auxclick.js1693394099385676944 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/wbr-element.js1693394099421676159 0
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-at-counter-style.js1693394099389676856 0
@@ -3812,6 +3882,7 @@
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_private_field_set.mjs1693394099301678775 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/nthArg.js1693394099693670227 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-babel/src1693394098417698067 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/251693467182753931530 1
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/svgo/plugins/convertShapeToPath.js1693394099785668222 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/dom-range.js1693394099401676595 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/supports-color/browser.js1693394099781668309 0
@@ -3842,6 +3913,7 @@
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/compressor-raw/src1693394098221702345 1
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/mp3.js1693394099413676333 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/cosmiconfig/dist/cacheWrapper.d.ts1693394099453675461 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/401693467362512185837 1
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/F.js1693394099681670489 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/pkg-dir/index.d.ts1693394099745669094 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-gnu.node1693394099009685142 0
@@ -4168,7 +4240,7 @@
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/keyboardevent-location.js1693394099409676421 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser/main.js1693394098285700948 0
 163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser/browser.js1693394098285700948 0
-167/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.4736fcdd.css.map1693399397868917232 0
+167/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/index.4736fcdd.css.map1693468039223960676 0
 165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser/package.json1693394098285700948 0
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_class_static_private_field_spec_set.js1693394099297678863 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/indexOfFrom.js1693394099689670315 0
@@ -4202,7 +4274,7 @@
 165/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/foo.js1693394098285700948 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/parse-cst.d.ts1693394099813667611 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseSampleSize.js1693394099661670925 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work4.ebd7e0ea.png1693466865457020426 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work4.ebd7e0ea.png1693468733591653051 0
 154/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/other.js1693394098289700861 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-what/lib/commonjs/stringify.d.ts.map1693394099469675112 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/usage.js1693394099473675025 0
@@ -4297,7 +4369,7 @@
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-sass/package.json1693394099233680258 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/isInteger.js1693394099701670053 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events1693394098237701996 1
-175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-javascript.4760338d.gif1693399397868917232 0
+175/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-javascript.4760338d.gif1693468039223960676 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-what/lib/es/types.js1693394099469675112 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/terser/package.json1693394099801667873 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events/lib/index.js1693394098237701996 0
@@ -4306,6 +4378,7 @@
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/fs/lib/browser.js.map1693394098257701560 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/assignInAllWith.js1693394099681670489 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events/lib/Disposable.js1693394098237701996 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/f0/2c961c9878e30be32be335a547f908f8afffcc1693467363576175511 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events/test/ValueEmitter.test.js1693394098237701996 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/node_modules/node-addon-api/tools/clang-format.js1693394099649671187 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lines-and-columns/README.md1693394099633671536 0
@@ -4316,7 +4389,7 @@
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-gradients.js1693394099393676769 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/events/test/Disposable.test.js1693394098237701996 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/cosmiconfig/dist/getDirectory.js.map1693394099453675461 0
-109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-bootstrap-96.e67a9ea4.png1693399377205090477 0
+109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/build/icons8-bootstrap-96.e67a9ea4.png1693468033323985259 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@lmdb/lmdb-linux-x64/node.abi108.musl.node1693394098181703219 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/acorn/dist/acorn.mjs.d.ts1693394099305678688 0
 166/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/main.js1693394098285700948 0
@@ -4628,6 +4701,7 @@
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/base-x/LICENSE.md1693394099317678427 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/base-x/README.md1693394099317678427 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/base-x/src/index.d.ts1693394099317678427 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/3f/aeab24b815a247e98d4e6b3f185f5b5752da0d1693467182797931102 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/base-x/package.json1693394099317678427 0
 138/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/runtime-browser-hmr/src/loaders/hmr-runtime.js1693394098381698853 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/cosmiconfig/dist/cacheWrapper.d.ts.map1693394099453675461 0
@@ -4690,6 +4764,7 @@
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/escalade/package.json1693394099485674763 0
 88/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml1693394099813667611 1
 95/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/seq.js1693394099813667611 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/631693467179937958896 1
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/lib/_class_apply_descriptor_set.js1693394099293678950 0
 96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/pair.js1693394099813667611 0
 96/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/sass/sass.js1693394099769668571 0
@@ -4718,6 +4793,7 @@
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/browser/seq.js1693394099809667698 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/dom-utils/instanceOf.js1693394099289679037 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/takeRight.js1693394099697670140 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/e5/e3a97061d577913c988d2edc65cfa16ccbb7421693467182797931102 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/yaml/browser/index.js1693394099809667698 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/AttributeSelector.js1693394099465675200 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/keyboardevent-charcode.js1693394099409676421 0
@@ -4841,7 +4917,7 @@
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/set-array/dist/types/set-array.d.ts1693394098157703743 0
 124/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/TypeSelector.js1693394099465675200 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/set-array/dist/set-array.umd.js1693394098157703743 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work3.d0086ccc.png1693466865453020465 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work3.d0086ccc.png1693468733595653021 0
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/set-array/dist/set-array.umd.js.map1693394098157703743 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/workers/test/workerfarm.js1693394099273679386 0
 135/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_iterable_to_array_limit_loose.mjs1693394099301678775 0
@@ -4869,7 +4945,7 @@
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/source-map/dist/types1693394098157703743 1
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/source-map/dist/source-map.umd.js1693394098157703743 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/source-map/LICENSE1693394098157703743 0
-111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-github-128.203eb3d8.png1693466865397021011 0
+111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-github-128.203eb3d8.png1693468733427654279 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/keyBy.js1693394099689670315 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@jridgewell/resolve-uri/README.md1693394098157703743 0
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage1693394098361699289 1
@@ -4959,7 +5035,7 @@
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-select/lib/index.js1693394099457675374 0
 129/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/iframe-seamless.js1693394099405676508 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/clean/Declaration.js1693394099473675025 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/81/ab2293e9eba45c2e849973fc6e9edd5046b3e61693399397904916931 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/81/ab2293e9eba45c2e849973fc6e9edd5046b3e61693468039239960609 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/clean/Rule.js1693394099473675025 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-grid.js1693394099393676769 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/inherits/inherits_browser.js1693394099505674327 0
@@ -4968,7 +5044,7 @@
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/esm/enums.js1693394099277679298 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/restructure/1-mergeAtrule.js1693394099473675025 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/restructure/index.js1693394099473675025 0
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work4.3f46cc62.png1693399397872917198 0
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work4.3f46cc62.png1693468039231960642 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/utils/src/urlJoin.js1693394099253679822 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domelementtype/lib/esm1693394099477674938 1
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/thru.js1693394099697670140 0
@@ -5088,7 +5164,7 @@
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/src/index.js1693394098229702171 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/is-arrayish/LICENSE1693394099505674327 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/flatMapDepth.js1693394099685670402 0
-176/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-node-js-144.183befbd.png1693399397868917232 0
+176/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-node-js-144.183befbd.png1693468039223960676 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/isSet.js1693394099689670315 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/fs-extra/lib/mkdirs/index.js1693394099489674676 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/upperFirst.js1693394099697670140 0
@@ -5154,6 +5230,7 @@
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/htmlnano/index.d.ts1693394099497674502 0
 134/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-media-resolution.js1693394099393676769 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/intersection.js1693394099689670315 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/191693467180101957302 1
 130/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-postcss/lib/loadPlugins.js1693394099233680258 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/htmlnano/CHANGELOG.md1693394099493674589 0
 97/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/htmlnano/docs1693394099497674502 1
@@ -5212,7 +5289,7 @@
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-addon-api/CHANGELOG.md1693394099733669356 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domelementtype/lib/esm/index.d.ts1693394099477674938 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domelementtype/lib/index.d.ts.map1693394099477674938 0
-99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work1.f9c2c5b6.jpg1693466865449020503 0
+99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/work1.f9c2c5b6.jpg1693468733591653051 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/domelementtype/lib/index.d.ts1693394099477674938 0
 90/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash1693394099717669704 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/csso/lib/clean/Raw.js1693394099473675025 0
@@ -5237,7 +5314,7 @@
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/graph/test/Graph.test.js1693394098261701473 0
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/mixin.js1693394099709669879 0
 118/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/core/src/ReporterRunner.js1693394098229702171 0
-113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-bootstrap-96.b4fc2c1f.png1693466865397021011 0
+113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/icons8-bootstrap-96.b4fc2c1f.png1693468733427654279 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseIsMap.js1693394099657671013 0
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/reduce.js1693394099317678427 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_charsEndIndex.js1693394099661670925 0
@@ -5429,6 +5506,7 @@
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/plant.js1693394099713669792 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_possible_constructor_return.mjs1693394099301678775 0
 119/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/type-fest/source/tsconfig-json.d.ts1693394099805667785 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/6f1693467182797931102 1
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/keys.js1693394099705669966 0
 92/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/.vscode/settings.json1693394098125704442 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1693394098197702870 0
@@ -5517,7 +5595,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/regions/TJ.js1693394099441675723 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/iframe-srcdoc.js1693394099405676508 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_customOmitClone.js1693394099665670838 0
-159/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/HEAD1693399398024915925 0
+159/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/HEAD1693468039199960777 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseLodash.js1693394099657671013 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/template.js1693394099713669792 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/type-fest/source/merge.d.ts1693394099805667785 0
@@ -5550,7 +5628,7 @@
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_createMathOperation.js1693394099665670838 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/sortBy.js1693394099713669792 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/acorn/package.json1693394099309678601 0
-177/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-bootstrap-96.e67a9ea4.png1693399397868917232 0
+177/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/icons8-bootstrap-96.e67a9ea4.png1693468039223960676 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/math.js1693394099709669879 0
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js1693394099465675200 0
 113/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lightningcss/node/ast.js.flow1693394099633671536 0
@@ -5609,6 +5687,7 @@
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/differenceBy.js1693394099677670577 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/posthtml-parser/readme.md1693394099745669094 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseSome.js1693394099661670925 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/51/79767b16f35128c1ea5f128c9e6bf7ba69a3401693467362508185876 0
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/flake.nix1693394099677670577 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/parcel/LICENSE1693394099741669181 0
 122/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/umd/popper-lite.js1693394099281679211 0
@@ -5662,7 +5741,7 @@
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/_baseMatchesProperty.js1693394099657671013 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/html-media-capture.js1693394099405676508 0
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/union.js1693394099717669704 0
-199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b6/767b4db0f1e7d3ee4a83530b82ee450d38ad501693399397904916931 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/b6/767b4db0f1e7d3ee4a83530b82ee450d38ad501693468039239960609 0
 93/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dist1693394099645671275 1
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/indexOf.js1693394099701670053 0
 125/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/multicolumn.js1693394099413676333 0
@@ -5774,7 +5853,7 @@
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/lastIndexOfFrom.js1693394099689670315 0
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@lezer/lr/dist1693394098161703656 1
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/term-size/package.json1693394099789668134 0
-164/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/COMMIT_EDITMSG1693399398024915925 0
+164/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/COMMIT_EDITMSG1693467182989929236 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/defaults.js1693394099685670402 0
 154/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs1693399395492937143 1
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/isMatch.js1693394099689670315 0
@@ -5797,11 +5876,12 @@
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/partition.js1693394099693670227 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/generated/decode-data-html.js1693394099481674850 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/cond.js1693394099681670489 0
+159/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/ORIG_HEAD1693467363624175045 0
 160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages/build-test.js1693394099725669530 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/isError.js1693394099689670315 0
 109/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/import-fresh/package.json1693394099505674327 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/create.js1693394099681670489 0
-101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/yassine.724440ef.jpg1693466865405020933 0
+101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/dev-serve/yassine.724440ef.jpg1693468733519653590 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/fill.js1693394099685670402 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/assocPath.js1693394099681670489 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/uniqBy.js1693394099697670140 0
@@ -5888,7 +5968,7 @@
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/findKey.js1693394099685670402 0
 133/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/source-map/parcel_sourcemap_node/build.rs1693394098413698154 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/padChars.js1693394099693670227 0
-160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/heads1693399398024915925 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/refs/heads1693468039199960777 1
 98/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/apply.js1693394099309678601 0
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@parcel/transformer-posthtml/src1693394099233680258 1
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/isArray.js1693394099689670315 0
@@ -5901,7 +5981,7 @@
 143/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_load.11693394099637671449 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/differenceWith.js1693394099685670402 0
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/valuesIn.js1693394099697670140 0
-163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work2.a21af37e.png1693399397872917198 0
+163/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/work2.a21af37e.png1693468039231960642 0
 120/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/symmetricDifferenceWith.js1693394099697670140 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@swc/helpers/src/_class_private_field_update.mjs1693394099301678775 0
 108/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/isArrayLike.js1693394099689670315 0
@@ -5971,6 +6051,7 @@
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/forOwn.js1693394099685670402 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/unzipWith.js1693394099697670140 0
 140/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/dist/esm/dom-utils/getWindowScrollBarX.js1693394099277679298 0
+199/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/96/bb5b1924bb1fc42cc99b39339dce070e69ac5b1693467182753931530 0
 106/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/fromPairs.js1693394099685670402 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-initial-letter.js1693394099393676769 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/update.js1693394099697670140 0
@@ -6053,7 +6134,7 @@
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/initial.js1693394099689670315 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/sampleSize.js1693394099697670140 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/bindKey.js1693394099681670489 0
-85/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/index.html1693466855121121267 0
+85/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/src/index.html1693468754683494568 0
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/setWith.js1693394099697670140 0
 111/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/node-gyp-build/package.json1693394099737669268 0
 101/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/pull.js1693394099693670227 0
@@ -6148,7 +6229,7 @@
 115/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lz4/lib/lz4.h1693394099645671275 0
 126/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lz4/lib/liblz4-dll.rc.in1693394099645671275 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lz4/lib/LICENSE1693394099641671362 0
-160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/FETCH_HEAD1693399397524920115 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/FETCH_HEAD1693468039131961062 0
 107/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/fp/complement.js1693394099681670489 0
 117/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lmdb/dependencies/lz4/lib/lz4hc.h1693394099645671275 0
 123/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/svg-fonts.js1693394099417676246 0
@@ -6301,6 +6382,7 @@
 99/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/whilst.js1693394099317678427 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/someLimit.js1693394099317678427 0
 94/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/parcel/src1693394099741669181 1
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/4f1693467179937958896 1
 104/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/eachOfLimit.js1693394099313678514 0
 102/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/async/retryable.js1693394099317678427 0
 112/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/htmlnano/docs/versioned_docs1693394099497674502 1
@@ -6384,7 +6466,7 @@
 100/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/inflight/LICENSE1693394099505674327 0
 103/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/lodash/dropRight.js1693394099677670577 0
 88/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.bin1693394098149703918 1
-174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes/origin1693399400184897827 1
+174/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/logs/refs/remotes/origin1693467182829930792 1
 116/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.bin/download-msgpackr-prebuilds1693394098149703918 0
 114/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/css-what/lib/commonjs/index.js1693394099469675112 0
 121/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.bin/node-gyp-build-optional-packages1693394098149703918 0
@@ -6422,6 +6504,7 @@
 131/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/generated/decode-data-xml.d.ts.map1693394099481674850 0
 127/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/caniuse-lite/data/features/css-animation.js1693394099389676856 0
 132/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/generated/decode-data-html.d.ts.map1693394099481674850 0
+160/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/.cache/gh-pages/https!github.com!yassine-kazdaghli!portfolio/.git/objects/561693467180101957302 1
 105/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/index.js1693394099481674850 0
 136/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js.flow1693394099285679124 0
 110/home/dci-student/Desktop/web-dev/Web-Dev-Course/myPortfolio/Portfolio/node_modules/entities/lib/maps/xml.json1693394099485674763 0
